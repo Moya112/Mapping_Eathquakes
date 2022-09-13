@@ -214,7 +214,7 @@ d3.json("https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/
     L.geoJSON(data, {
       //Style the lines with a color and weight that will make it stand out on all maps.
       style: {
-        color :"#3274A3",
+        color :"green",
         weight: 2
       },
 //Add the tectonic layer group variable you created in Step 1 to the map
